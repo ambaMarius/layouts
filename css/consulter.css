@@ -1,0 +1,8 @@
+.escription_element{
+    text-align: center;
+}
+@media(max-width : 342px){
+    .date_et_compagnie{
+        float: left;
+    }
+}

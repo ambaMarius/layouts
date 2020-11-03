@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+}
+/*
+ * Blog posts
+ */
+ .blog-post {
+    margin-bottom: 4rem;
+  }
+  .blog-post-title {
+    margin-bottom: .25rem;
+    font-size: 2.5rem;
+  }
+  .blog-post-meta {
+    margin-bottom: 1.25rem;
+    color: #999;
+  }
+
+
+ h2, h4{
+    font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+  }
+  
+  .comuniques{
+      text-align: justify;
+  }
+
+  @media(max-width : 575px){
+    
+    .photos_membres{
+      text-align:center;
+    }
+  }
